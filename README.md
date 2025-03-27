@@ -13,6 +13,27 @@ This is a simple **Java-based** Library Management System that allows librarians
 - Java 8 or higher installed on your machine.
 - A command-line interface (CLI) or IDE (e.g., Eclipse).
 
+- ### Steps to Run the Program:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/LibraryManagementSystem.git
+    ```
+2. Navigate to the project folder:
+    ```bash
+    cd LibraryManagementSystem
+    ```
+3. Compile the Java files:
+    ```bash
+    javac src/*.java
+    ```
+4. Run the application:
+    ```bash
+    java src.LibraryManagement
+    ```
+
+### Contribution:
+If you'd like to contribute, feel free to open a pull request or create an issue.
+
 
 ## Challenges and Improvements:
 ### Challenges:
